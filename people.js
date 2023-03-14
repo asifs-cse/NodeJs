@@ -1,1 +1,3 @@
-var age = 29;
+var people = ["Asif", "Riya", "Ayat"];
+
+module.exports = people;
