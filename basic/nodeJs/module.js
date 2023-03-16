@@ -10,3 +10,7 @@ console.log(path.extname(myPath));
 console.log(path.parse(myPath));
 
 //os
+console.log(os.platform());
+console.log(os.homedir());
+console.log(os.freemem());
+console.log(os.cpus());
