@@ -1,0 +1,20 @@
+{
+    "persons": [{
+            "name": "PRASAD",
+            "city": "RJY",
+            "details": {
+                "mob": "123456789",
+                "mail": "ydprjy@gmail.com"
+            }
+ 
+        },
+        {
+            "name": "Sirisha",
+            "city": "KKD",
+            "details": {
+                "mob": "987465214",
+                "mail": "ydpkkd@gmail.com"
+            }
+ }
+]
+}
